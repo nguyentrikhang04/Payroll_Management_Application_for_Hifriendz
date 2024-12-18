@@ -1,4 +1,4 @@
-Overview: Designed and implemented a payroll accounting module for Hifriendz, integrating salary calculation and employee management features.
+Overview: Designed and implemented a payroll accounting module for Hifriendz, integrating salary calculation and employee management features. \n/n
 Technologies Used:
 Frontend: C#.NET WinForms (.NET Framework 4.8.1, Visual Studio 2022)
 Backend: Microsoft SQL Server 2019 for database management
